@@ -27,3 +27,12 @@ git commit -m "Updated project files"
 
 # Push your code to GitHub
 git push origin main
+
+
+## Conclusion
+
+You’ve now learned the complete workflow for pushing and pulling code with Git and VS Code.  
+From creating a repository and cloning it locally, to making commits, creating branches,  
+and merging pull requests — you’ve practiced the same process developers use every day.
+
+Next time you start a project, you’ll be able to set it up with confidence and keep it organized in GitHub!
