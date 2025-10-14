@@ -18,6 +18,14 @@ Together, they make it easy to manage and share your projects safely.
 
 Here’s a quick demo of how to push code from VS Code to GitHub:
 
+# Stage your changes
+git add .
+
+# Commit your work
+git commit -m "Updated project files"
+
+# Push your code to GitHub
+git push origin main
 
 ## Conclusion
 
@@ -27,3 +35,4 @@ and merging pull requests — you’ve practiced the same process developers use
 
 Next time you start a project, you’ll be able to set it up with confidence and keep it organized in GitHub!
 
+This guide was created as part of a Git and GitHub workflow project to demonstrate version control best practices.
